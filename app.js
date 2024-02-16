@@ -1,4 +1,4 @@
-let maxValue = 1000;
+let maxValue = 100;
 let value;
 let previousValues = [];
 let tries;
